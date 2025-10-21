@@ -1,2 +1,0 @@
-# Takeover-Domains
-Takeover domains
